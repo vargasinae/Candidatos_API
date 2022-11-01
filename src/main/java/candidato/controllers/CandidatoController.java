@@ -1,4 +1,4 @@
-package candidato;
+package candidato.controllers;
 
 import io.swagger.annotations.ApiOperation;
 import modelos.Candidato;
